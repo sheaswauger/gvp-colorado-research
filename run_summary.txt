@@ -1,0 +1,6 @@
+GVP Scraper Run Summary
+Run at: 2026-04-13T00:59:02.604731
+
+municode_manifest.csv: 11 downloaded, 0 errors, 11 total
+mco_manifest.csv: 0 downloaded, 0 errors, 0 total
+municode_deep_manifest.csv: 858 downloaded, 1 errors, 859 total
